@@ -1,6 +1,6 @@
 use cairo_lib::hashing::hasher::Hasher;
 use cairo_lib::utils::types::words64::Words64;
-use poseidon::hades_permutation};
+use poseidon::hades_permutation;
 
 // @notice Hashes the given words using the Poseidon hash function.
 // @param words The words to hash
